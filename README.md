@@ -26,11 +26,10 @@ In our project we aim to evaluate and plot the concentration of selected polluta
 * O3: O3 concentration (ug/m^3)
 * TEMP: temperature (degree Celsius)
 * PRES: pressure (hPa)
-* DEWP: dew point temperature (degree Celsius)
-* RAIN: precipitation (mm)
+* AQI: The Air Quality Index is a way to communicate to the public how polluted the air is or will be.
 * wd: wind direction
 * WSPM: wind speed (m/s)
-* station: name of the air-quality monitoring site
+
 
 # Particulate Matter (PM) Basics
 
