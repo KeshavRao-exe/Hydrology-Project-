@@ -8,7 +8,9 @@ According to the World Health Organization (WHO), 92% of the world’s populatio
 Regarding the climate, pollutants are linked to the earth’s climate and ecosystems globally as major drivers of air pollutants like combustion of fossil fuel cause greenhouse gas emissions. Additionally, Sulphur (SO2) and Nitrogen Oxides (NOx) emissions directly affect the ecosystem’s ability to function and grow.     
 
 ## Objective
-In our project we aim to evaluate and plot the concentration of selected pollutants in several Indian cities. After this, we plan to implement machine learning algorithms to predict the AQI of the health-damaging pollutants PM10 and PM2.5. With the algorithms we will create a predictor, showing the expected daily AQI.  
+In our project we aim to evaluate and plot the concentration of selected pollutants in several Indian cities. After this, we plan to implement machine learning algorithms to predict the AQI of the health-damaging pollutants PM10 and PM2.5. With the algorithms we will create a predictor, showing the expected daily AQI. 
+
+![image](https://www2.iqair.com/sites/default/files/inline-images/AQI%29Chart_US.png)
 
 ## Data Set Information:
 ### Attribute Information:
@@ -34,8 +36,7 @@ In our project we aim to evaluate and plot the concentration of selected polluta
 ## Particulate Matter (PM) Basics
 
 ### What is PM, and how does it get into the air?
-
-![](https://www.epa.gov/sites/production/files/styles/medium/public/2016-09/pm2.5_scale_graphic-color_2.jpg)
+<p align="center"><img src="https://www.epa.gov/sites/production/files/styles/medium/public/2016-09/pm2.5_scale_graphic-color_2.jpg"></p>
 
 PM stands for particulate matter (also called particle pollution): the term for a mixture of solid particles and liquid droplets found in the air. Some particles, such as dust, dirt, soot, or smoke, are large or dark enough to be seen with the naked eye. Others are so small they can only be detected using an electron microscope.
 
@@ -63,7 +64,7 @@ Fine particles are also the main cause of reduced visibility (haze) in parts of 
 ## ✍️References
 [Air Quality Open Data Platform](https://aqicn.org/data-platform/covid19/verify/34cfff10-33b7-4989-a11a-8e4eb48404d7)
 
-Members:  
+## Members:  
   - Hansika Sachdeva(RA1911003010530)  
   - Srivatsaan S    (RA1911003010063)  
   - Keshav Rao      (RA1911003010026)  
