@@ -57,7 +57,12 @@ Particulate matter contains microscopic solids or liquid droplets that are so sm
 
 Fine particles are also the main cause of reduced visibility (haze) in parts of the United States, including many of our treasured national parks and wilderness areas.
 
+## 💡Cheatsheets
+📉[Matplotlib ,](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet)
+🐼[Pandas ,](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet)
+[Seaborn ](https://www.datacamp.com/community/blog/seaborn-cheat-sheet-python)
+
 Members:  
-  -> Hansika Sachdeva(RA1911003010530)  
-  -> Srivatsaan S    (RA1911003010063)  
-  -> Keshav Rao      (RA1911003010026)  
+  - Hansika Sachdeva(RA1911003010530)  
+  - Srivatsaan S    (RA1911003010063)  
+  - Keshav Rao      (RA1911003010026)  
