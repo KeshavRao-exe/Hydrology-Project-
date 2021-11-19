@@ -45,11 +45,9 @@ Particle pollution includes:
 
 ### Sources of PM
 
-These particles come in many sizes and shapes and can be made up of hundreds of different chemicals.
-
-Some are emitted directly from a source, such as construction sites, unpaved roads, fields, smokestacks or fires.
-
-Most particles form in the atmosphere as a result of complex reactions of chemicals such as sulfur dioxide and nitrogen oxides, which are pollutants emitted from power plants, industries and automobiles.
+- These particles come in many sizes and shapes and can be made up of hundreds of different chemicals.
+- Some are emitted directly from a source, such as construction sites, unpaved roads, fields, smokestacks or fires.
+- Most particles form in the atmosphere as a result of complex reactions of chemicals such as sulfur dioxide and nitrogen oxides, which are pollutants emitted from power plants, industries and automobiles.
 
 ## What are the Harmful Effects of PM?
 
